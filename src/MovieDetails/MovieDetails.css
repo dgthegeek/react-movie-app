@@ -1,16 +1,16 @@
 .list-group {
   background-color: rgba(0, 0, 0, 0.8);
-  border: 1px solid #e50914; /* Netflix red */
+  border: 1px solid #e50914;
   border-radius: 5px;
   padding: 20px;
 }
 
 .list-group-item img {
-  max-width: 100%; /* Make sure the image fits within the parent container */
+  max-width: 100%; 
   height: auto;
-  display: block; /* To center the image within the container */
-  margin: 0 auto; /* Center the image horizontally */
-  max-height: 200px; /* Set a maximum height to control the size */
+  display: block;
+  margin: 0 auto; 
+  max-height: 200px;
 }
 
 .list-group-item {
