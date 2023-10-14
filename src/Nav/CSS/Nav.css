@@ -1,0 +1,26 @@
+/* Nav.css */
+.navbar {
+    background-color: #5a91ea;
+    padding: 10px 0;
+    margin-bottom: 30px;
+  }
+  
+  .navbar-brand img {
+    max-width: 100px;
+  }
+  
+  .navbar-collapse {
+    justify-content: space-between; /* Adjust the alignment to space between */
+  }
+  
+  .nav-link {
+    color: #fff;
+    margin: 0 10px; /* Add margin to create spacing between links */
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .nav-link:hover {
+    color: #e50914; /* Netflix red */
+  }
+  
